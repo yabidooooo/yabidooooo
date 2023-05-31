@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/SourceTree-0052CC?style=flat-square&logo=SourceTree&logoColor=white"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yabidooooo&show_icons=true&theme=radical)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yabidooooo)](https://github.com/anuraghazra/github-readme-stats&count_private=true&include_all_commits)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yabidooooo)](https://github.com/anuraghazra/github-readme-stats&count_private=true&include_all_commits=true)
 
 <!--
 **yabidooooo/yabidooooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
