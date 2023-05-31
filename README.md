@@ -6,6 +6,8 @@
 ### My Profile
 
 <img alt="Unity" src ="https://img.shields.io/badge/Unity-FAFAFA.svg?&style=for-the-badge&logo=Unity&logoColor=black"/>
+<img src="https://img.shields.io/badge/#181717?style=flat-square&logo=Android&logoColor=white"/>
+
 <!--
 **yabidooooo/yabidooooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
