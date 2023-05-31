@@ -4,7 +4,7 @@
 # GyeongHwanOh
 ## YabDoo
 ### My Profile
-<img src="https://img.shields.io/badge/C#-239120.svg?&style=for-the-badge&logo=C#&logoColor=black"/>
+<img src="https://img.shields.io/badge/C#-239120?style=flat-square&logo=C#&logoColor=white"/>
 <img alt="Unity" src ="https://img.shields.io/badge/Unity-FAFAFA.svg?&style=for-the-badge&logo=Unity&logoColor=black"/>
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
 <img src="https://img.shields.io/badge/SourceTree-0052CC?style=flat-square&logo=SourceTree&logoColor=white"/>
