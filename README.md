@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=300&section=header&text=Yabidooooo%20Profile&fontSize=90&fontAlignY=38&desc=This%20is%20my%20first%20profile%20Hello%20everyone%20!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=300&section=header&text=This Is Yabidooooo%&fontSize=90&fontAlignY=38&desc=This%20is%20my%20first%20profile%20!&descAlignY=51&descAlign=62)
 
 # GyeongHwanOh
 ## YabDoo
