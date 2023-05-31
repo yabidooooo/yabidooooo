@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=300&section=header&text=This%20Is%20Yabidooooo%&fontSize=90&fontAlignY=38&desc=My%20First%20Profile%20!&descAlignY=51&descAlign=62)
 
-# GyeongHwanOh
+# Oh GyeongHwan
 ## YabDoo
 ### My Profile
 <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=C#&logoColor=white"/>
